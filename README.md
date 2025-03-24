@@ -38,7 +38,7 @@ HouseWise is a **machine learning model** designed to predict house prices accur
 ## 📸 **Screenshots**  
 Here’s a preview of HouseWise in action:  
 
-![HouseWise UI: Input](streamlit- input.png)  
+![HouseWise UI: Input](streamlit_input.png)  
 ![HouseWise UI: Output](streamlit-prediction.png)
 
 ## 🎯 **Results & Performance**  
