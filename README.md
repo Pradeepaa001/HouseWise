@@ -1,7 +1,3 @@
-Here's a well-structured **README** for your **HouseWise** project:  
-
----
-
 # **HouseWise 🏡**  
 *A Machine Learning-powered house price prediction system*  
 
