@@ -32,11 +32,14 @@ HouseWise is a **machine learning model** designed to predict house prices accur
    ```  
 3. **Run the Streamlit App**  
    ```bash
-   streamlit run app.py
+   streamlit run HousePricePredictor.py
    ```  
 
 ## 📸 **Screenshots**  
+Here’s a preview of HouseWise in action:  
 
+![HouseWise UI: Input](streamlit- input.png)  
+![HouseWise UI: Output](streamlit-prediction.png)
 
 ## 🎯 **Results & Performance**  
 - Achieved optimized **prediction accuracy** using **Grid Search CV**  
